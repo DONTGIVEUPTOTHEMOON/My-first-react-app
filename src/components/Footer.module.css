@@ -1,0 +1,11 @@
+.footer {
+  border-top: 1px solid grey;
+  display: flex;
+  gap: 50px;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  bottom: 1px;
+  color: rgb(0, 0, 0);
+  font-weight: 200;
+}
